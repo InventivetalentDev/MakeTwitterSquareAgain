@@ -38,7 +38,7 @@ button {
 }
 
 .HeartAnimation{
-    background-image: url("https://pbs.twimg.com/media/DCen0Y0XUAASfgk.png:orig") !important;
+    background-image: url("https://pbs.twimg.com/media/DCen0Y0XUAASfgk.png:orig")/* Shh, just fixing twitter using twitter */ !important;
 }
 
 /* This fixes the heart animation, because the new one contains another step which needs an offset (therefore reset the offset to 0 here) */
