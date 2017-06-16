@@ -1,4 +1,4 @@
-.edge-design .avatar,
+.avatar,
 .DashboardProfileCard-avatarImage,
 .DashboardProfileCard-avatarLink,
 .DMAvatar,
@@ -38,7 +38,7 @@ button {
 }
 
 .HeartAnimation{
-    background-image: url("https://i.imgur.com/h3EdJFk.png") !important;
+    background-image: url("https://pbs.twimg.com/media/DCen0Y0XUAASfgk.png:orig") !important;
 }
 
 @font-face {
