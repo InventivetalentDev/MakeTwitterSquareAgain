@@ -1,3 +1,4 @@
+/** Border Radius **/
 .avatar,
 .DashboardProfileCard-avatarImage,
 .DashboardProfileCard-avatarLink,
@@ -12,6 +13,12 @@
 {
     border-radius: 5px !important;
 }
+
+button {
+    border-radius: 5px !important;
+}
+
+/** Font Modifications **/
 
 .ProfileCardStats-statLabel,
 .ProfileNav-label {
@@ -29,9 +36,7 @@
     font-size: 13px !important;
 }
 
-button {
-    border-radius: 5px !important;
-}
+/** Icon Replacements **/
 
 .Icon:after, .Icon:before {
     font-family: "rosettaicons" !important;
