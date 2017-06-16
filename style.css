@@ -1,3 +1,12 @@
-.edge-design .avatar {
+.edge-design .avatar,.DashboardProfileCard-avatarImage,.DashboardProfileCard-avatarLink,.DMAvatar,.ProfileCard-avatarImage {
+    border-radius: 5px !important;
+}
+
+.ProfileCardStats-statList {
+    font-size:14px !important;
+    font-weight: normal !important;
+}
+
+button {
     border-radius: 5px !important;
 }
