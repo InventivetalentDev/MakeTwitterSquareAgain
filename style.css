@@ -1,10 +1,32 @@
-.edge-design .avatar,.DashboardProfileCard-avatarImage,.DashboardProfileCard-avatarLink,.DMAvatar,.ProfileCard-avatarImage {
+.edge-design .avatar,
+.DashboardProfileCard-avatarImage,
+.DashboardProfileCard-avatarLink,
+.DMAvatar,
+.ProfileCard-avatarImage,
+.ProfileCard-avatarLink,
+.ProfileAvatar-image,
+.ProfileAvatar,
+.RichEditor,
+.TweetBoxAttachments,
+.InputToken  /* This is the little card that shows up in the input when you select someone to DM */
+{
     border-radius: 5px !important;
 }
 
-.ProfileCardStats-statList {
+.ProfileCardStats-statLabel,
+.ProfileNav-label{
     font-size:14px !important;
     font-weight: normal !important;
+    overflow:visible !important;
+}
+
+.ProfileHeading-toggleItem,
+.ProfileHeading-toggleItem.is-active {
+    font-weight:normal !important;
+}
+
+.username {
+    font-size:13px !important;
 }
 
 button {
