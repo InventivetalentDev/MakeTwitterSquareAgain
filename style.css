@@ -37,11 +37,9 @@ button {
     font-family: "rosettaicons" !important;
 }
 
-/* TODO: this file seems to be missing
 .HeartAnimation{
-    background-image: url(../../img/animations/web_heart_animation.png) !important;
+    background-image: url("https://pbs.twimg.com/media/DCen0Y0XUAASfgk.png:orig") !important;
 }
-*/
 
 @font-face {
     font-family: "rosettaicons" !important;
