@@ -8,27 +8,43 @@
 .ProfileAvatar,
 .RichEditor,
 .TweetBoxAttachments,
-.InputToken  /* This is the little card that shows up in the input when you select someone to DM */
+.InputToken /* This is the little card that shows up in the input when you select someone to DM */
 {
     border-radius: 5px !important;
 }
 
 .ProfileCardStats-statLabel,
-.ProfileNav-label{
-    font-size:14px !important;
+.ProfileNav-label {
+    font-size: 14px !important;
     font-weight: normal !important;
-    overflow:visible !important;
+    overflow: visible !important;
 }
 
 .ProfileHeading-toggleItem,
 .ProfileHeading-toggleItem.is-active {
-    font-weight:normal !important;
+    font-weight: normal !important;
 }
 
 .username {
-    font-size:13px !important;
+    font-size: 13px !important;
 }
 
 button {
     border-radius: 5px !important;
+}
+
+.Icon:after, .Icon:before {
+    font-family: "rosettaicons" !important;
+}
+
+/* TODO: this file seems to be missing
+.HeartAnimation{
+    background-image: url(../../img/animations/web_heart_animation.png) !important;
+}
+*/
+
+@font-face {
+    font-family: "rosettaicons" !important;
+    src: url("../../font/rosetta-icons-Regular.eot") !important;
+    src: url("../../font/rosetta-icons-Regular.eot?#iefix") format("embedded-opentype"), url("../../font/rosetta-icons-Regular.woff") format("woff"), url("../../font/rosetta-icons-Regular.ttf") format("truetype") !important;
 }
