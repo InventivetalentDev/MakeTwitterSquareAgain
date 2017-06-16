@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Make Twitter Square Again!",
+  "description": "Make Twitter Avatars Square Again!",
+  "version": "1.0",
+  "author": "inventivetalent",
+  "permissions": [
+    "tabs",
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.twitter.com/*",
+        "http://*.twitter.com/*"
+      ],
+      "css": [
+        "style.css"
+      ]
+    }
+  ]
+}
