@@ -60,3 +60,7 @@ button {
     src: url("../../font/rosetta-icons-Regular.eot") !important;
     src: url("../../font/rosetta-icons-Regular.eot?#iefix") format("embedded-opentype"), url("../../font/rosetta-icons-Regular.woff") format("woff"), url("../../font/rosetta-icons-Regular.ttf") format("truetype") !important;
 }
+
+.Icon--homeFilled:before {
+    content: "\f053" !important;
+}
