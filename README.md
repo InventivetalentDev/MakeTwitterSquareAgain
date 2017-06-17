@@ -1,5 +1,6 @@
 # MakeTwitterSquareAgain
-Make Twitter Avatars Square Again!
+Make Twitter Avatars Square Again!  
+![](https://i.imgur.com/mJm2KJi.png)
 
 Removes the rounded avatars from Twitter and makes them square again!
 
