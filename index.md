@@ -1,3 +1,5 @@
+![](https://i.imgur.com/mJm2KJi.png)
+
 ## About
 This extension for Google Chrome reverts your Twitter back to the square style, and gets rid of the current round style.
 
