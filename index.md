@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/mJm2KJi.png)
 
 ## About
-This extension for Google Chrome reverts your Twitter back to the square style, and gets rid of the current round style.
+This extension removes the rounded avatars, buttons, icons, etc. from Twitter and makes them square again!
 
 ## Installation
 1. Download and extract the ZIP file from [**here**](https://github.com/InventivetalentDev/MakeTwitterSquareAgain/archive/master.zip)
