@@ -2,7 +2,7 @@
 Make Twitter Avatars Square Again!  
 ![](https://i.imgur.com/mJm2KJi.png)
 
-Removes the rounded avatars from Twitter and makes them square again!
+Removes the rounded avatars, buttons, icons, etc. from Twitter and makes them square again!
 
 ## Installation
 1. Download and extract the ZIP file from [**here**](https://github.com/InventivetalentDev/MakeTwitterSquareAgain/archive/master.zip)
