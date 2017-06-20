@@ -33,10 +33,6 @@ button {
     font-weight: normal !important;
 }
 
-.username {
-    font-size: 13px !important;
-}
-
 /** Icon Replacements **/
 
 .Icon:after, .Icon:before {
